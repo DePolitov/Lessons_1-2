@@ -1,0 +1,15 @@
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\bin\Debug\net6.0\Task_3.exe
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\bin\Debug\net6.0\Task_3.deps.json
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\bin\Debug\net6.0\Task_3.dll
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\bin\Debug\net6.0\Task_3.pdb
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\Task_3.dll
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\Task_3.pdb
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+C:\E\personal\GB\Уроки\4_1 четверть. База\3. Знакомство с языками программирования\Урок 2\Home_tasks_lessons_1-2\Task_3\obj\Debug\net6.0\ref\Task_3.dll
