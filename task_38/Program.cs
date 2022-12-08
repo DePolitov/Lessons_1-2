@@ -3,12 +3,9 @@
 [3 7 22 2 78] -> 76     */
 Console.Clear();
 double[] array = new double[new Random().Next(3, 10)];
-double min, max;
 CreateArray(array);
 PrintArray(array);
-min = MinInArray(array);
-max = MaxInArray(array);
-Console.WriteLine($" -> {max - min}");
+Console.WriteLine($" -> {MaxInArray(array) - MinInArray(array)}");
 
 void CreateArray(double[] arr1)
 {
