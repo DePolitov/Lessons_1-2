@@ -6,7 +6,7 @@
 8 4 2 4
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.     */
 Console.Clear();
-int row, column, x, y;
+int x, y;
 Console.Write("Введите количество строк - ");
 int.TryParse(Console.ReadLine()!, out x);
 Console.Write("Введите количество столбцов - ");
